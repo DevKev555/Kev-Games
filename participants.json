@@ -1,4 +1,12 @@
 {
-  "participants": [],
+  "participants": [
+    {
+      "UserId": 12345678,
+      "Name": "test",
+      "Number": 1,
+      "Eliminated": false,
+      "Died": false
+    }
+  ],
   "inGame": true
 }
